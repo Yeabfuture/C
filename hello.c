@@ -14,21 +14,32 @@ int main(void)
 
     // printf("Nice to meet you, %s. You are %d years old.\n", name, age);  
 
+ 
+    // // conditionals
 
-    // conditionals
+    // int x, y;
 
-    int x, y;
+    // printf("Enter the value of x: ");
+    // scanf("%i", &x);
+    // printf("Enter the value of y: ");
+    // scanf("%i", &y);
 
-    printf("Enter the value of x: ");
-    scanf("%i", &x);
-    printf("Enter the value of y: ");
-    scanf("%i", &y);
+    // if(x<y)
+    // {
+    //     printf("%i Is greater than %i",x,y);
 
-    if(x<y)
-    {
-        printf("%i Is greater than %i",x,y);
+    // }
 
-    }
+    // else if (x>y) 
+    // {
+    //     printf("%i is greater than %i",y,x);
+    // }
+
+    // else
+    // {
+    //     printf("%i is equal to %i", x,y);
+    // }
+    
     
     return 0;
 }
