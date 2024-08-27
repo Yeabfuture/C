@@ -19,7 +19,7 @@ int main(void)
         counter--;
     }
 
-    do while loop
+    // do while loop
 
     int counter =3;
     do 
