@@ -2,17 +2,17 @@
 
 int main(void) 
 {
-    // Accepting and returning the value
-    // char name[50];
-    // int age;
+//   //  Accepting and returning the value
+//     char name[50];
+//     int age;
 
-    // printf("What's your name? ");
-    // scanf("%s", name);  
+//     printf("What's your name? ");
+//     scanf("%s", name);  
 
-    // printf("Hello, %s! How old are you? ", name);  
-    // scanf("%d", &age);  
+//     printf("Hello, %s! How old are you? ", name);  
+//     scanf("%i", &age);  
 
-    // printf("Nice to meet you, %s. You are %d years old.\n", name, age);  
+//     printf("Nice to meet you, %s. You are %i years old.\n", name, age);  
 
  
     // // conditionals
@@ -27,7 +27,6 @@ int main(void)
     // if(x<y)
     // {
     //     printf("%i Is greater than %i",x,y);
-
     // }
 
     // else if (x>y) 
@@ -39,7 +38,9 @@ int main(void)
     // {
     //     printf("%i is equal to %i", x,y);
     // }
+
     
     
+
     return 0;
 }
